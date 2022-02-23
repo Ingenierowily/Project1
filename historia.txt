@@ -1,0 +1,2 @@
+Este es un archivo que se creo
+para practicar el curso GIT
