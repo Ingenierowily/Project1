@@ -1,2 +1,5 @@
 Este es un archivo que se creo
 para practicar el curso GIT
+
+Mi nombre es Wilmer y tengo 35 años
+Nacido en Cartagena
