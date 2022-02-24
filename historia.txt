@@ -1,3 +1,10 @@
 TITULO
 
 Esta es la historia de Wilmer Hernandez:
+<<<<<<< HEAD
+=======
+
+Nacido en Cartagena con 34 años de edad
+Ingeniero Mecanico de la UTB
+Inteligente y ambicioso
+>>>>>>> master
