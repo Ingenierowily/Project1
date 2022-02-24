@@ -1,14 +1,3 @@
 TITULO
 
-Este es un archivo que se creo
-para practicar el curso GIT
-
-Mi nombre es Wilmer y tengo 36 años
-Nacido en Cartagena
-
-En camara parece algo que no es tan alto
-
-Hoy esl CEO de platzi
-
-Lo que no sabian es que me estoy preparando
-para convertirme 
+Esta es la historia de Wilmer Hernandez:
