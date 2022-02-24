@@ -3,7 +3,7 @@ TITULO
 Este es un archivo que se creo
 para practicar el curso GIT
 
-Mi nombre es Wilmer y tengo 35 años
+Mi nombre es Wilmer y tengo 36 años
 Nacido en Cartagena
 
 En camara parece algo que no es tan alto
