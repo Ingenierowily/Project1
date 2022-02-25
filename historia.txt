@@ -5,3 +5,5 @@ Linea 4
 Nacido en Cartagena con 34 años de edad
 Ingeniero Mecanico de la UTB
 Inteligente y ambicioso
+
+A partir de la linea 9
