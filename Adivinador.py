@@ -1,6 +1,7 @@
 from random import randint as azar
 ganador = azar(1,11)
 
+#Programa para rifas
 contador = 0
 num = int(input('Adivina que numero es el ganador del 1 al 10:  '))
 i = 0
